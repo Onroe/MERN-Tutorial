@@ -76,3 +76,7 @@ $ npm start
 ### 15_routing_react-router-dom
 
 * Frontend. Routing to other pages
+
+![Screenshot](one.JPG)
+
+![Screenshot](two.JPG)
