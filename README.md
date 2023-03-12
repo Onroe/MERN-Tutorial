@@ -1,12 +1,14 @@
-# MERN Tutorial. A notes application with user authentication.
+   # MERN Tutorial. 
+## A notes application with user authentication.
+
 ## [Techniques from this course](https://www.youtube.com/watch?v=FcxjCPeicvU&t=27326s)
 
-**Every completed section has a branch**
+**Every completed section has a branch as listed below.**
 
-## How to run application
+## How to run the application
 
 ```
-$ git clone
+$ git clone https://github.com/Onroe/MERN-Tutorial.git
 $ cd MERN-Tutorial/server
 $ npm i
 $ npm start
